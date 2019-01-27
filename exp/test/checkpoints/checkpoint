@@ -1,0 +1,2 @@
+model_checkpoint_path: "/content/drive/My Drive/app/exp/test/checkpoints/model.model-2574"
+all_model_checkpoint_paths: "/content/drive/My Drive/app/exp/test/checkpoints/model.model-2574"

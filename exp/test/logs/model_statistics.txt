@@ -1,0 +1,3 @@
+Number of parameters: 81073
+Number of parameters in G: 81040
+Number of parameters in D: 33
